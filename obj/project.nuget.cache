@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBZcStVWl4+ff8d28qlBc7TfdeqtdoLKNOFBv1TtDjmSODPN8cbzG4jRUJSCqUF+5aGglUo8ikhCYsR7nvU6Qw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ProjetoONG\\ProjetoONG\\ProjetoONG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gigi_\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\gigi_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
